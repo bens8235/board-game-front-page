@@ -1,0 +1,18 @@
+#map {
+  position: relative;
+}
+
+#char {
+  position: absolute;
+  bottom: 210px;
+  left: 460px;
+  height: 35px;
+}
+
+#speech {
+  position: absolute;
+  bottom: 405px;
+  left: 458px;
+  height: 75px;
+  visibility: hidden;
+}
